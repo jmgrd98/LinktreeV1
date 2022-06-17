@@ -1,2 +1,2 @@
-# Linktree
- Linktree made using HTML5 and CSS3
+# linktree
+Página de links (link tree) feita com HTML5 e CSS3.
